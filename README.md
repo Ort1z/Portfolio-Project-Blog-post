@@ -41,10 +41,12 @@ Throughout this project, I learned several key lessons:
 ## Conclusion
 The System Monitoring Dashboard project not only honed my technical skills but also deepened my understanding of teamwork and project management. As I move forward in my career, I aim to continue developing solutions that enhance operational efficiency for IT teams.
 ### About Me
-I am a passionate software engineer with a keen interest in backend development and system architecture. My experiences in IT support have shaped my dedication to creating tools that simplify complex processes. 
-[GitHub Project Link](link-to-your-github) 
-[Deployed Project Page](link-to-your-deployed-page) 
-[Project Landing Page](link-to-your-landing-page) 
+I am a passionate software engineer with a keen interest in backend development and system architecture. My experiences in IT support have shaped my dedication to creating tools that simplify complex processes.<be>
+<br>
+[GitHub Project Link](link-to-your-github) <br>
+[Deployed Project Page](link-to-your-deployed-page) <br>
+[Project Landing Page](link-to-your-landing-page) <br>
 [LinkedIn Profile](link-to-your-linkedin)
+<br>
 ---
 Feel free to personalize this template further with your own insights, experiences, and specific links!
