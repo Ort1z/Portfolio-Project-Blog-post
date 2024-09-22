@@ -1,6 +1,7 @@
 ##Portfolio Project Blog Post: System Monitoring Dashboard
 ## Introduction
-![System Monitoring Dashboard Banner](<img src="image/Untitled design (1).png" alt="Image Description">)
+System Monitoring Dashboard Banner
+<img src="image/Untitled design (1).png" alt="Image Description">
 The project, the System Monitoring Dashboard, is a comprehensive web-based platform designed to monitor and manage system performance and infrastructure effectively. The dashboard serves DevOps teams and IT administrators by providing real-time metrics, custom alerts, resource utilization tracking, and reporting—all within a user-friendly interface. 
 The team consists of:
 - Masingita Maluleke as Backend Developer, Frontend Developer, and DevOps Engineer
@@ -11,7 +12,7 @@ My interest in system monitoring stems from my background in IT support. I often
 Through my collaboration, I successfully developed a functioning dashboard that integrates various monitoring tools. 
 ### Architecture Overview
 Here’s a diagram illustrating our architecture:
-![Architecture Diagram](<img src="image/Screenshot 2024-09-22 131254.png" alt="Image Description">)
+<img src="image/Screenshot 2024-09-22 131254.png" alt="Image Description">
 ### Technologies Used
 I chose a mix of technologies to enhance our application:
 - Backend: We utilized Python with the Flask framework for its simplicity and flexibility, allowing rapid API development.
