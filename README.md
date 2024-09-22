@@ -1,4 +1,4 @@
-#Portfolio Project Blog Post: System Monitoring Dashboard
+##Portfolio Project Blog Post: System Monitoring Dashboard
 ## Introduction
 ![System Monitoring Dashboard Banner](link-to-your-banner-image)
 The project, the System Monitoring Dashboard, is a comprehensive web-based platform designed to monitor and manage system performance and infrastructure effectively. The dashboard serves DevOps teams and IT administrators by providing real-time metrics, custom alerts, resource utilization tracking, and reporting—all within a user-friendly interface. 
@@ -41,12 +41,17 @@ Throughout this project, I learned several key lessons:
 ## Conclusion
 The System Monitoring Dashboard project not only honed my technical skills but also deepened my understanding of teamwork and project management. As I move forward in my career, I aim to continue developing solutions that enhance operational efficiency for IT teams.
 ### About Me
-I am a passionate software engineer with a keen interest in backend development and system architecture. My experiences in IT support have shaped my dedication to creating tools that simplify complex processes.<be>
+I am a passionate software engineer with a keen interest in backend development and system architecture. My experiences in IT support have shaped my dedication to creating tools that simplify complex processes.<br>
+<be>
 <br>
-[GitHub Project Link](link-to-your-github) <br>
-[Deployed Project Page](link-to-your-deployed-page) <br>
-[Project Landing Page](link-to-your-landing-page) <br>
+[GitHub Project Link](link-to-your-github) 
+<br>
+[Deployed Project Page](link-to-your-deployed-page) 
+<br>
+[Project Landing Page](link-to-your-landing-page) 
+<br>
 [LinkedIn Profile](link-to-your-linkedin)
 <br>
 ---
+<br>
 Feel free to personalize this template further with your own insights, experiences, and specific links!
