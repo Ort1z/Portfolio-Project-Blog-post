@@ -1,6 +1,7 @@
 ##Portfolio Project Blog Post: System Monitoring Dashboard
 ## Introduction
-![System Monitoring Dashboard Banner](link-to-your-banner-image)
+![System Monitoring Dashboard Banner]
+<img src="image/Untitled design (1).png" alt="Image Description">
 The project, the System Monitoring Dashboard, is a comprehensive web-based platform designed to monitor and manage system performance and infrastructure effectively. The dashboard serves DevOps teams and IT administrators by providing real-time metrics, custom alerts, resource utilization tracking, and reporting—all within a user-friendly interface. 
 The team consists of:
 - Masingita Maluleke as Backend Developer, Frontend Developer, and DevOps Engineer
@@ -42,7 +43,7 @@ Throughout this project, I learned several key lessons:
 The System Monitoring Dashboard project not only honed my technical skills but also deepened my understanding of teamwork and project management. As I move forward in my career, I aim to continue developing solutions that enhance operational efficiency for IT teams.
 ### About Me
 I am a passionate software engineer with a keen interest in backend development and system architecture. My experiences in IT support have shaped my dedication to creating tools that simplify complex processes.<br>
-<be>
+<br>
 <br>
 [GitHub Project Link](link-to-your-github) 
 <br>
