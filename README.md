@@ -52,7 +52,3 @@ I am a passionate software engineer with a keen interest in backend development 
 [Project Landing Page](link-to-your-landing-page) 
 <br>
 [LinkedIn Profile](link-to-your-linkedin)
-<br>
----
-<br>
-Feel free to personalize this template further with your own insights, experiences, and specific links!
