@@ -41,7 +41,7 @@ Throughout this project, I learned several key lessons:
 - Collaboration: Effective communication within the team was vital. Regular check-ins helped us stay aligned and tackle challenges more efficiently.
 - Personal Growth: This project reinforced my passion for backend development. I learned that I thrive in solving complex problems, particularly when they have real-world applications.
 ## Conclusion
-The System Monitoring Dashboard project not only honed my technical skills but also deepened my understanding of teamwork and project management. As I move forward in my career, I aim to continue developing solutions that enhance operational efficiency for IT teams.
+The System Monitoring Dashboard project not only honed my technical skills but also deepened my understanding of project management. As I move forward in my career, I aim to continue developing solutions that enhance operational efficiency for IT teams.
 ### About Me
 I am a passionate software engineer with a keen interest in backend development and system architecture. My experiences in IT support have shaped my dedication to creating tools that simplify complex processes.<br>
 <br>
